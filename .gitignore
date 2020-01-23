@@ -1,0 +1,38 @@
+# Working Code
+/oop-fundamentals-working/*
+
+# Static Resources
+/oop-static/assets/diagrams/*.drawio
+/oop-static/documents/notes/notes.txt
+/oop-static/documents/notes/*.docx
+/oop-static/documents/presentation/*.pptx
+
+# Build
+**/build/*
+!docs/build/*
+
+# Gradle
+.gradle
+
+# IDE Resources
+.project
+.classpath
+.project
+.settings
+tags
+.DS_Store
+*.log
+*.log.gz
+*.orig
+*.iml
+.idea/*.xml
+.idea/copyright
+.idea/jsLibraryMappings.xml
+.idea/tasks.xml
+.idea/dictionaries
+.idea/dataSources.ids
+.idea/dataSources.xml
+.idea/sqlDataSources.xml
+.idea/dynamic.xml
+.idea/uiDesigner.xml
+.idea/libraries
